@@ -29,8 +29,8 @@ This project was built by Asmamaw Yismaw Baylie and Joseph Aboagye.
 
 ### Requirements
 
-- All your files will be compiled on Ubuntu 14.04 LTS
-- Your C programs and functions will be compiled with gcc 4.8.4
+- All your files will be compiled on Ubuntu 20.04.2 LTS
+- Your C programs and functions will be compiled with gcc 9.3.0
 - Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 - No more than 5 functions per file
 
